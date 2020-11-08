@@ -9,6 +9,8 @@
     "@testing-library/user-event": "^12.1.10",
     "bootstrap": "^4.5.3",
     "concurrently": "^5.3.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.13",
     "nodemon": "^2.0.6",
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.0",
@@ -41,5 +43,4 @@
       "last 1 safari version"
     ]
   }
- 
 }
